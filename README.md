@@ -1,6 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building full-stack web applications and improving real-world project experience<br><br>👯 I’m looking to collaborate on<br>Frontend, Full Stack, and AI-based projects<br><br>🤝 I’m looking for help with<br>Advanced backend systems, scalable architectures, and real-time applications<br><br>🌱 I’m currently learning<br>Full Stack Development, AI/ML concepts, and Data Analytics<br><br>💬 Ask me about<br>Frontend Development, React, JavaScript, Web Projects, and APIs<br><br>⚡ Fun fact<br>I love turning ideas into real working applications and continuously improving my skills 🚀
+## 💫 About Me
 
+🔭 Currently building — LLM-powered apps, agentic AI workflows, and full-stack platforms
+
+🤖 What I work with — Python, FastAPI, LangChain, OpenAI APIs, n8n, React.js, Node.js, MongoDB
+
+🚀 Recent projects:
+- AI Agent for automated LinkedIn content publishing (n8n + OpenAI + LinkedIn API)
+- AI Wiki Quiz Generator (FastAPI + LangChain + SQLite + React)
+- Food-Del — full-stack food ordering platform (MERN + JWT)
+
+🌱 Exploring — Agentic AI systems, multi-step LLM pipelines, RAG applications
+
+💬 Ask me about — Python, React, FastAPI, LangChain, REST APIs
+
+📫 Reach me — nuthipranav@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav235/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nuthipranav@gmail.com) 
